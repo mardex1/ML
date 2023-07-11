@@ -1,0 +1,5 @@
+- Categorical - mode and countplot
+- Numeric - mean, median and histogram
+- Numeric/Numeric - Correlation, scatter
+- Categorical/Categorical - Pivot
+- Categorical/Numeric - Violin plot
